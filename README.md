@@ -31,6 +31,6 @@ It is necessary to find ***passport data*** of a person with the following nickn
 
 ![..](https://github.com/DudeDKrisu/lab1/blob/main/3.png)
 
-4) Находим по поиску документов ВК наш файл:
+4) Находим в данном файле серию и номер паспорта:
 
 ![..](https://github.com/DudeDKrisu/lab1/blob/main/4.png)
