@@ -19,14 +19,18 @@
 It is necessary to find ***passport data*** of a person with the following nickname in one of the popular social networks ***benkanitmoshavelsoup***
 
 # Решение
-Находим профиль в социальной сети ВК
+1) Находим профиль в социальной сети ВК:
+
  ![..](https://github.com/DudeDKrisu/lab1/blob/main/1.png)
 
-Находим в профиле самый первый пост с грамотой и названием документа
+2) Находим в профиле самый первый пост с грамотой и названием документа:
+
 ![..](https://github.com/DudeDKrisu/lab1/blob/main/2.png)
 
-Находим по поиску документов ВК наш файл
+3) Находим по поиску документов ВК наш файл:
+
 ![..](https://github.com/DudeDKrisu/lab1/blob/main/3.png)
 
-Находим по поиску документов ВК наш файл
+4) Находим по поиску документов ВК наш файл:
+
 ![..](https://github.com/DudeDKrisu/lab1/blob/main/4.png)
